@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="firstname">ingrese el primer numero</string>
+    <string name="seconnumber">ingrese el segundo numero</string>
+    <string name="addboton">+</string>
+    <string name="restbuton">-</string>
+    <string name="multibotton">*</string>
+    <string name="diviboton">/</string>
+    <string name="resultado">resultado</string>
+</resources>
